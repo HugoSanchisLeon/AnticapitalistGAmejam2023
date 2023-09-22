@@ -1,0 +1,78 @@
+Gameplay y niveles
+“Gameplay”
+
+
+Modo de juego
+
+
+
+Economía del juego
+
+
+
+Sistema de logros
+
+
+
+Flux de Nivells o zones de joc 
+
+
+
+
+Desglossament tècnic
+
+
+
+Interfície d’usuari
+
+
+
+
+
+
+Controls
+	 
+
+
+Mecàniques de joc
+
+
+Elements interactius
+
+Diagrama de classes
+
+
+
+Dades a guardar i estructura
+
+Necessitats tècniques
+
+
+Disseny
+
+
+Referències visuals
+
+
+
+
+Esbossos proposats
+
+
+Planificació del projecte
+
+
+
+Duració del projecte
+
+
+
+
+Prototips i entregables
+
+Repartició de rols
+
+
+
+	...
+
